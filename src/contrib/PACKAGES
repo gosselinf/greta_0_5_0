@@ -1,0 +1,15 @@
+Package: greta
+Version: 0.5.0
+Depends: R (>= 4.1.0)
+Imports: abind, callr, cli (>= 3.4.1), coda, future (>= 1.22.1), glue
+        (>= 1.5.1), methods, parallelly (>= 1.29.0), progress (>=
+        1.2.0), R6, reticulate (>= 1.19.0), rlang, tensorflow (==
+        2.16.0), tools, utils, whisker, yesno
+Suggests: bayesplot, covr, cramer, DiagrammeR, dplyr, DiagrammeRsvg,
+        extraDistr, fields, ggplot2, knitr, lattice, MASS, MCMCpack,
+        mockery, mvtnorm, purrr, rmarkdown, rmutil, rsvg, spelling,
+        testthat (>= 3.1.0), tibble, tidyr, truncdist, withr,
+        rstudioapi
+License: Apache License 2.0
+MD5sum: 2fcbbcd4af136cd3a0a44f54c251d1c5
+NeedsCompilation: no
